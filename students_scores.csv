@@ -5,10 +5,16 @@ id,first_name,last_name,score
 3,Cameron,Wood,36.0
 4,Michelle,Thomas,45.0
 5,Tami,Flores,64.0
+5,Tami,Flores,64.0
+5,Tami,Flores,64.0
+5,Tami,Flores,64.0
 6,Sean,Brown,47.0
 7,Elizabeth,Reyes,62.0
 8,Taylor,Li,55.0
 9,Thomas,Russell,53.0
+5,Tami,Flores,64.0
+5,Tami,Flores,64.0
+5,Tami,Flores,64.0
 10,Chelsea,Kirby,46.0
 11,Mark,Hardin,56.0
 12,Rebecca,Michael,44.0
@@ -20,6 +26,9 @@ id,first_name,last_name,score
 18,Kelly,Cole,52.0
 19,Justin,Lawrence,47.0
 20,Heather,Malone,60.0
+5,Tami,Flores,64.0
+5,Tami,Flores,64.0
+5,Tami,Flores,64.0
 21,Matthew,Boyer,56.0
 22,Stephanie,Harper,51.0
 23,Jason,Harrison,49.0
